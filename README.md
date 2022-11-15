@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alfonso Valle</h1>
-<h3 align="center">“The impediment to action advances action. What stands in the way becomes the way.” ― Marcus Aurelius.</h3>
+<h3 align="center">I am looking for an opportunity in the world of web application development. You can take a look at some of my projects below. </h3>
 
 - 📫 How to reach me **valleuned@gmail.com**
 
