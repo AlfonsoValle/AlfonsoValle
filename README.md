@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center"> 
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsovalle&show_icons=true&theme=dracula&langs_count=8&hide=shell&count_private:true&show_icons=true&locale=en"alt="alfonsovalle" /></p>
