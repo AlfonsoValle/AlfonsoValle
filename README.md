@@ -24,4 +24,4 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsovalle&show_icons=true&theme=dracula&langs_count=8&hide=shell&count_private:true&show_icons=true&locale=en"alt="alfonsovalle" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsovalle&show_icons=true&theme=dracula&langs_count=8&hide=shell&count_private=true&locale=es" alt="alfonsovalle" /></p>
