@@ -12,6 +12,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-| ![amazon alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logocolor=white) | | :---: |
-[![express](https://img.shields.io/badge/express-4.17.1-green)](https://expressjs.com/es/)
+![amazon alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logocolor=white) 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsovalle&show_icons=true&theme=dracula&langs_count=8&hide=shell&count_private:true&show_icons=true&locale=en"alt="alfonsovalle" /></p>
