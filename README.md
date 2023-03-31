@@ -11,8 +11,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![amazon alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logocolor=white) 
+
+
+
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsovalle&show_icons=true&theme=dracula&langs_count=8&hide=shell&count_private:true&show_icons=true&locale=en"alt="alfonsovalle" /></p>
