@@ -24,9 +24,4 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsovalle&show_icons=true&theme=dracula&langs_count=8&hide=shell&count_private=true&locale=es" alt="alfonsovalle" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsovalle&show_icons=true&locale=en&layout=compact" alt="alfonsovalle" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfonsovalle&show_icons=true&locale=en" alt="alfonsovalle" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfonsovalle&" alt="alfonsovalle" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsovalle&show_icons=true&theme=dracula&hide=shell&count_private=true&locale=es" alt="alfonsovalle" /></p>
