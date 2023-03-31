@@ -11,6 +11,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  </p>
+
+<p align="center"> 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alfonsovalle&show_icons=true&theme=dracula&langs_count=8&hide=shell&count_private:true&show_icons=true&locale=en"alt="alfonsovalle" /></p>
